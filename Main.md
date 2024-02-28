@@ -10,3 +10,9 @@ this is an ordered list:
 * item
 * item
 * item
+
+**This is a table**
+| Syntax    | Description |
+|-----------|-------------|
+| Header    | Title       |
+| Paragraph | Text        |
